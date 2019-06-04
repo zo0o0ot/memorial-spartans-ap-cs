@@ -3,6 +3,7 @@ Memorial AP Comp Sci - Sample Repo
 
 Fork this repo and make some pull requests. Feel free to use markdown.  Populate the wiki if you're feel like it.
 
+_The text below is what happens when you accept random pull requests from an AP Comp Sci class during a class activity:_
 
 ## According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyways. Because bees don't care what humans think is impossible.
 
